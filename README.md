@@ -10,26 +10,28 @@ https://www.kaggle.com/learn/intermediate-machine-learning
 
 📌 Topics Covered
 
-Missing Values
+- Missing Values
 
-Categorical Variables
+- Categorical Variables
 
-Pipelines
+- Pipelines
 
-Cross-Validation
+- Cross-Validation
 
 🎯 Objective
 
 To preprocess data efficiently using pipelines, handle missing and categorical data, and apply proper model validation techniques.
 
+
+
 🔹 Lab 7: Cross Validation and Early Stopping with XGBoost
 📌 Topics Covered
 
-XGBoost
+- XGBoost
 
-Data Leakage
+- Data Leakage
 
-Advanced Validation Techniques
+- Advanced Validation Techniques
 
 🎯 Objective
 
@@ -37,8 +39,8 @@ To improve model performance using gradient boosting (XGBoost) and apply advance
 
 📦 Repository Contents
 
-Completed Jupyter Notebooks (.ipynb)
+- Completed Jupyter Notebooks (.ipynb)
 
-Executed outputs
+- Executed outputs
 
-All exercises passed successfully
+- All exercises passed successfully
