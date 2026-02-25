@@ -44,3 +44,7 @@ To improve model performance using gradient boosting (XGBoost) and apply advance
 - Executed outputs
 
 - All exercises passed successfully
+
+
+<img width="4800" height="2960" alt="Zayyam Waseem - Intermediate Machine Learning" src="https://github.com/user-attachments/assets/e79dce74-9b6c-4b76-bb7c-ecb3ed703af5" />
+
